@@ -1,3 +1,5 @@
+# This is the solution for exercises 1.6-1.11*
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
